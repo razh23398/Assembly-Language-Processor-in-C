@@ -117,11 +117,3 @@ Want to contribute? Follow these steps:
    git push origin feature-branch
    ```
 5. **Open a Pull Request** and wait for review!
-
-## 📩 Contact
-For questions or suggestions, feel free to reach out:
-- **Almog Mordechai** - Email: `almog@example.com`
-- **Raz Hershko** - Email: `raz@example.com`
-
-## 📜 License
-This project is licensed under the **MIT License**.
